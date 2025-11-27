@@ -1,6 +1,6 @@
 // Primitive and non premitive 
 
-// 1.Premitive
+// 1.Premitive:-string number boolen null undefine 
 
 //numnber//
 let a =10;
@@ -40,7 +40,7 @@ console.log(typeof h);
 
 
 
-//NON - PREMITIVE 
+//NON - PREMITIVE  array object function
 
 // 1.array
 
@@ -104,6 +104,7 @@ console.log(empone);
 
 
 // the output will age=25 because it will give original data to changr in heap //
+
 
 
 
